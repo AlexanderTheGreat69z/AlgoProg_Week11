@@ -1,5 +1,5 @@
 # The driver program will import the class module you created.
-from shopLegs import ShopALM
+from shopLegsALM import ShopALM
 
 # A function that creates a list of objects. 
 # The function accepts no parameters but returns the list of objects.
